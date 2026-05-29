@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 👋
+
+<img width="5616" height="1703" alt="ben" src="https://github.com/user-attachments/assets/557413e0-9f97-4413-bace-37ea2d8aed63" />
 
 <!--
 **ThatBenKraft/ThatBenKraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
