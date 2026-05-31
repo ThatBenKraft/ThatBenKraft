@@ -22,30 +22,42 @@ To learn more about my projects, [click here](https://github.com/ThatBenKraft/Th
 <table align="center" style="margin: 0px auto;">
   <tr>
     <td align="center">
-      <img width="3000" height="2000" alt="family_photo_cropped_32" src="https://github.com/user-attachments/assets/d4f590b4-fc76-4445-9ea7-d3b294606602" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/amazon-stamper" target="_blank" rel="noopener noreferrer">Amazon Stamper</a></b>
+      <a href="https://github.com/ThatBenKraft/amazon-stamper" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="family_photo_cropped_32" src="https://github.com/user-attachments/assets/d4f590b4-fc76-4445-9ea7-d3b294606602" /> <br> 
+        <b>Amazon Stamper</b>
+      </a>
     </td>
     <td align="center">
-      <img width="3000" height="2000" alt="MicroCassette_32" src="https://github.com/user-attachments/assets/03d25fc6-8e87-4e06-a73a-b9d1603bc241" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/micro-cassette" target="_blank" rel="noopener noreferrer">Micro-Cassette</a></b>
+      <a href="https://github.com/ThatBenKraft/micro-cassette" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="MicroCassette_32" src="https://github.com/user-attachments/assets/03d25fc6-8e87-4e06-a73a-b9d1603bc241" /> <br> 
+        <b>Micro-Cassette</b>
+      </a>
     </td>
     <td align="center">
-      <img width="3000" height="2000" alt="fullarray_32" src="https://github.com/user-attachments/assets/989fe02c-cfa5-432f-97d0-fa8fef0006b3" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/meraxes" target="_blank" rel="noopener noreferrer">Smoothie Café</a></b>
+      <a href="https://github.com/ThatBenKraft/meraxes" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="fullarray_32" src="https://github.com/user-attachments/assets/989fe02c-cfa5-432f-97d0-fa8fef0006b3" /> <br> 
+        <b>Smoothie Café</b>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="3000" height="2000" alt="navigational_robot_32" src="https://github.com/user-attachments/assets/aa91546f-4469-4200-b8c0-dcc8aefc3305" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/create_3" target="_blank" rel="noopener noreferrer">Navigational Robot</a></b>
+      <a href="https://github.com/ThatBenKraft/create_3" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="navigational_robot_32" src="https://github.com/user-attachments/assets/aa91546f-4469-4200-b8c0-dcc8aefc3305" /> <br> 
+        <b>Navigational Robot</b>
+      </a>
     </td>
     <td align="center">
-      <img width="3000" height="2000" alt="thumbnail_32" src="https://github.com/user-attachments/assets/5e5a3468-46fc-4dad-bdfa-7cb40682c90d" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/piano-typer" target="_blank" rel="noopener noreferrer">Piano Typer</a></b>
+      <a href="https://github.com/ThatBenKraft/piano-typer" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="thumbnail_32" src="https://github.com/user-attachments/assets/5e5a3468-46fc-4dad-bdfa-7cb40682c90d" /> <br> 
+        <b>Piano Typer</b>
+      </a>
     </td>
     <td align="center">
-      <img width="3000" height="2160" alt="thumbnail_32" src="https://github.com/user-attachments/assets/88b4d7ae-a2e3-41dd-8225-8e23a5742008" /> <br> 
-      <b><a href="https://github.com/ThatBenKraft/engineering-class" target="_blank" rel="noopener noreferrer">Engineering Class</a></b>
+      <a href="https://github.com/ThatBenKraft/engineering-class" target="_blank" rel="noopener noreferrer">
+        <img width="3000" height="2000" alt="thumbnail_32" src="https://github.com/user-attachments/assets/88b4d7ae-a2e3-41dd-8225-8e23a5742008" /> <br> 
+        <b>Engineering Class</b>
+      </a>
     </td>
   </tr>  
 </table>
