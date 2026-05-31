@@ -1,14 +1,8 @@
-## About me 👋
+# 👋 About me
 
 <img width="5616" height="1703" alt="ben" src="https://github.com/user-attachments/assets/557413e0-9f97-4413-bace-37ea2d8aed63" />
 
 ***Hi, I'm Ben!*** I'm a mechanical engineer who loves software, thoughtful design, and breaking down complex ideas.
-
-To learn more about my projects, [click here](https://github.com/ThatBenKraft/ThatBenKraft/portfolio).
-
-<!--
-<a href="[https://example.com](https://github.com/ThatBenKraft/ThatBenKraft/portfolio)" target="_blank" rel="noopener noreferrer">click here</a>.
--->
 
 ## 🛠️ Hard Skills
 
