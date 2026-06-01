@@ -2,7 +2,7 @@
 
 <img width="5616" height="1703" alt="ben" src="https://github.com/user-attachments/assets/557413e0-9f97-4413-bace-37ea2d8aed63" />
 
-***Hi, I'm Ben!*** I'm a mechanical engineer who loves software, thoughtful design, and breaking down complex ideas.
+***Hi, I'm Ben!*** I'm a mechanical engineer who loves software, thoughtful design, and breaking down complex ideas. [Here's my resume.](https://docs.google.com/document/d/1CI30qauiVE8ZtgzXXY_WCAsxd_aMOVB4/export?format=pdf)
 
 ## 🛠️ Hard Skills
 
