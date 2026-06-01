@@ -6,9 +6,9 @@
 
 ## 🛠️ Hard Skills
 
-* **CAD & Design** – Onshape, SolidWorks, AutoCAD, Blender, ![Markdown](https://img.shields.io/badge/Style-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=161616) ![HTML](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=f16524)
+* **CAD & Design** – Onshape, SolidWorks, AutoCAD, Blender, ![Markdown](https://img.shields.io/badge/Style-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=161616) ![HTML](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=f16524) ![Mermaid](https://img.shields.io/badge/Style-Mermaid-informational?style=flat&logo=mermaid&logoColor=white&color=ff3670)
 * **Software Development** – ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffdf76) ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8) ![ROS](https://img.shields.io/badge/Code-ROS-informational?style=flat&logo=ros&logoColor=white&color=22314e) ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=f05030) Power Apps, Power Automate, Dataverse
-* **Analysis** – MATLAB, NI LabVIEW, SolidWorks FEA, COMSOL Multiphysics, Power BI, Mermaid
+* **Analysis** – MATLAB, NI LabVIEW, SolidWorks FEA, COMSOL Multiphysics, Power BI
 * **Fabrication** – MIG Welding, Soldering, Carpentry, Metalworking, Grinding, Lathe Machining, CAM Systems
 
 ## 🏗️ Recent Projects
@@ -18,13 +18,13 @@
     <td align="center">
       <a href="https://github.com/ThatBenKraft/amazon-stamper" target="_blank" rel="noopener noreferrer">
         <img width="3000" height="2000" alt="family_photo_cropped_32" src="https://github.com/user-attachments/assets/d4f590b4-fc76-4445-9ea7-d3b294606602" /> <br> 
-        <b>Amazon Stamper</b>
+        <b>Amazon Stamper Robot</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ThatBenKraft/micro-cassette" target="_blank" rel="noopener noreferrer">
         <img width="3000" height="2000" alt="MicroCassette_32" src="https://github.com/user-attachments/assets/03d25fc6-8e87-4e06-a73a-b9d1603bc241" /> <br> 
-        <b>Micro-Cassette</b>
+        <b>Micro-Cassette Modeling Challenge</b>
       </a>
     </td>
     <td align="center">
